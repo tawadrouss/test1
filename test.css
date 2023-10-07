@@ -6,3 +6,9 @@ h2{
     color: blue;
     background-color: green;
 }
+.cont{
+    display: flex;
+    background-color: black;
+    color: pink;
+    justify-content: space-between;
+}
